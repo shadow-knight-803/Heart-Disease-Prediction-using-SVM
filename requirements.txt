@@ -1,0 +1,8 @@
+numpy               # Numerical computations
+pandas              # Data manipulation and analysis
+scikit-learn        # Machine learning models and evaluation metrics
+imbalanced-learn    # Handling imbalanced datasets (SMOTE)
+streamlit           # Web application framework for model deployment
+matplotlib          # Data visualization (optional but useful)
+seaborn             # Statistical data visualization (optional but useful)
+ipykernel

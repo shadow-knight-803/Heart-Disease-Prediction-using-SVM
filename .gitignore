@@ -1,0 +1,32 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+
+# Log files
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit temporary files
+*.streamlit/
+
+# Other temporary files
+*.swp
+*.swo
